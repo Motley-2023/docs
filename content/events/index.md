@@ -12,7 +12,8 @@ The MIBT Cardano Hub – Zambia organises regular events to support learning, co
 - Community meetups and awareness sessions  
 - Technical workshops and bootcamps  
 - Hackathons and innovation challenges  
-- Partner-led and campus-based engagements  
+- Partner-led and campus-based engagements
+- Monthly webinars and Summits   
 
 ## Purpose of Events
 
