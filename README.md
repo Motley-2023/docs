@@ -56,3 +56,22 @@ These projects demonstrate the hub’s ability to translate developer collaborat
 ## Ecosystem Architecture
 
 The MIBT innovation stack connects multiple layers:
+
+
+## Hub Locations
+
+The hub operates across Zambia:
+
+- Kitwe — Founding developer hub  
+- Lusaka — National coordination hub  
+- Mpika — Applied innovation hub  
+
+## Documentation
+
+Full documentation is available at:
+
+https://vercel.com/mibt-cardano-hub/docs
+
+## Mission
+
+To build innovation ecosystems that connect emerging technologies with real-world economic communities.
