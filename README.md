@@ -1,17 +1,58 @@
 # MIBT Cardano Hub Documentation
 
-This repository contains the official documentation for the MIBT Cardano Hub ecosystem.
+Official documentation for the **MIBT Cardano Hub ecosystem**, an innovation hub building Web3 solutions for grassroots economies through developer programs, hackathons, and sector-driven platforms.
 
-It includes resources for developers, community members, and innovation partners working within the hub network across Zambia.
+## Overview
 
-## Sections
+The MIBT Cardano Hub supports developers, innovators, and communities building real-world solutions using blockchain technologies.
 
-- Hub Overview
-- Locations (Kitwe, Lusaka, Mpika)
-- Programs (Hackathons, Bootcamps, Incubation)
-- Developer Resources
-- Ecosystem Projects
+The hub ecosystem focuses on:
 
-## Website
+- Developer education and onboarding
+- Hackathons and innovation programs
+- Startup incubation
+- Real-world asset (RWA) innovation
+- Protection infrastructure for underserved communities
 
-https://docs-mu-lovat.vercel.app
+## Core Platform
+
+### StartShield-STSH
+
+StartShield-STSH is a **Web3 insurance-first platform designed to protect and empower underserved business communities**.
+
+The platform provides protection and digital trust infrastructure for:
+
+- Startups
+- MSMEs
+- Small-holder farmers
+- Small-scale miners
+- Cooperatives
+- Traders and marketeers
+- Artists and musicians
+- Sports communities
+
+StartShield operates using a **three-token architecture**:
+
+| Token | Purpose |
+|------|--------|
+| **STSH-U** | Platform utility token |
+| **STSH-R** | Real-world asset (RWA) representation |
+| **STSH-X** | Liquidity, settlement, and exchange |
+
+## Innovation Ecosystem
+
+Innovations emerging from the hub integrate with the StartShield platform.
+
+### Top Innovations
+
+1. **StartShield-STSH** — Ranked #1 Innovation  
+2. **Uhurulang** — Ranked #2 Innovation  
+3. **VillageChain Bank** — Ranked #3 Innovation  
+4. **ASME-X Mining** — Ranked #4 Innovation  
+5. **AfYEF Digital Enterprise & Trade** — Ranked #5 Innovation  
+
+These projects demonstrate the hub’s ability to translate developer collaboration into real-world economic solutions.
+
+## Ecosystem Architecture
+
+The MIBT innovation stack connects multiple layers:
